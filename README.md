@@ -1,3 +1,5 @@
+# Watch out [my website](https://novea-portfolio.netlify.app) to see more info ! 
+
 # Novea. | Volodymyr Lazunin-Fominykh
 
 ## Who am I ?
