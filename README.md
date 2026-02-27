@@ -1,4 +1,4 @@
-# Watch out [my website](https://novea-portfolio.netlify.app) to see more info ! 
+# Watch out [my website](https://novea.netlify.app) to see more info ! 
 
 # Novea. | Volodymyr Lazunin-Fominykh
 
